@@ -39,6 +39,7 @@ You can copy and paste them and then adjust them for your needs.
 | [Sortable](@/examples/sortable.md) | Demonstrates how to use htmx with the Sortable.js plugin to implement drag-and-drop reordering
 | [Updating Other Content](@/examples/update-other-content.md) | Demonstrates how to update content beyond just the target elements
 | [Confirm](@/examples/confirm.md) | Demonstrates how to implement a custom confirmation dialog with htmx
+| [Progressively Enhanced Shopping List](@/examples/progressively-enhanced-shopping-list.md) | Demonstrates how to use progressive enhancement techniques with HTMX on a shopping list
 
 ## Migrating from Hotwire / Turbo ?
 
